@@ -1,0 +1,1 @@
+!function(){for(var n=[1,2,2,4,6,6,6,8,9,9,9,9],o=[],e=0;e<n.length;e++)-1==o.indexOf(n[e])&&o.push(n[e]);console.log(o)}();
